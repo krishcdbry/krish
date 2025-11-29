@@ -1,36 +1,43 @@
-<!-- MATRIX RAIN EFFECT HEADER -->
+<!-- 🥷 NINJA HEADER 🥷 -->
 <div align="center">
 
-![Matrix SVG](https://capsule-render.vercel.app/api?type=venom&height=350&color=0:000000,50:003300,100:00ff00&text=KRISH&fontSize=100&fontColor=00ff00&animation=twinkling&fontAlignY=35&desc=「%20THE%20ALPHA%20NINJA%20」&descSize=25&descAlignY=55&stroke=00ff00&strokeWidth=2)
+<!-- NINJA ASCII ART -->
+```
+                                    ⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀
+                                    ⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀
+                                    ⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀
+                                    ⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀
+                                    ⠀⣿⣿⡟██████████████⣿⣿⣿⠀
+                                    ⠀⣿⣿⡟███░░░████░░░███⣿⣿⣿⠀
+                                    ⠀⢸⣿⣿██████████████⣿⣿⡇⠀
+                                    ⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀
+                                    ⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀
+                                    ⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠉⠀⠀⠀⠀⠀⠀⠀
 
-<!-- GLITCH TEXT EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=%E2%9A%A1+ENGINEERING+LEADER+%7C+TECH+FOUNDER+%7C+BUILDER+%E2%9A%A1;%F0%9F%94%A5+14%2B+YEARS+SHIPPING+CODE+THAT+MATTERS+%F0%9F%94%A5;%F0%9F%9A%80+%2412.8B%2B+UNICORN+EXPERIENCE+%F0%9F%9A%80" alt="Typing SVG" /></a>
+                        ░█░█░█▀▄░▀█▀░█▀▀░█░█░░░░░▀█▀░█░█░█▀▀
+                        ░█▀▄░█▀▄░░█░░▀▀█░█▀█░░░░░░█░░█▀█░█▀▀
+                        ░▀░▀░▀░▀░▀▀▀░▀▀▀░▀░▀░░░░░░▀░░▀░▀░▀▀▀
+                              ᴀ ʟ ᴘ ʜ ᴀ   ɴ ɪ ɴ ᴊ ᴀ  🥷
+```
+
+<!-- ANIMATED TITLE -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=400&size=35&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=%E2%9A%94%EF%B8%8F+ENGINEERING+LEADER+%E2%80%A2+TECH+FOUNDER+%E2%80%A2+BUILDER+%E2%9A%94%EF%B8%8F;%F0%9F%94%A5+14%2B+YEARS+OF+SHIPPING+CODE+THAT+MATTERS;%F0%9F%9A%80+%2412.8B%2B+UNICORN+EXPERIENCE" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- ANIMATED STATS COUNTER -->
-<img src="https://img.shields.io/badge/dynamic/json?color=00ff00&labelColor=000000&label=YEARS%20BUILDING&query=years&url=https://api.npoint.io/placeholder&style=for-the-badge&logo=clockify&logoColor=00ff00&suffix=%2B%20YEARS" alt="Years"/>
-
+<!-- STATS BADGES -->
 <table>
 <tr>
-<td>
-<img src="https://img.shields.io/badge/14+-YEARS%20OF%20CODE-00ff00?style=for-the-badge&labelColor=000000&logo=codepen&logoColor=00ff00"/>
-</td>
-<td>
-<img src="https://img.shields.io/badge/$12.8B+-UNICORN%20BUILDER-00ff00?style=for-the-badge&labelColor=000000&logo=coinmarketcap&logoColor=00ff00"/>
-</td>
-<td>
-<img src="https://img.shields.io/badge/23K+-COMMUNITY-00ff00?style=for-the-badge&labelColor=000000&logo=discord&logoColor=00ff00"/>
-</td>
-<td>
-<img src="https://img.shields.io/badge/🏆-NATIONAL%20HACKING%20CHAMPION-00ff00?style=for-the-badge&labelColor=000000"/>
-</td>
+<td><img src="https://img.shields.io/badge/14+-YEARS%20OF%20CODE-00ff00?style=for-the-badge&labelColor=000000&logo=codepen&logoColor=00ff00"/></td>
+<td><img src="https://img.shields.io/badge/$12.8B+-UNICORN%20BUILDER-00ff00?style=for-the-badge&labelColor=000000&logo=coinmarketcap&logoColor=00ff00"/></td>
+<td><img src="https://img.shields.io/badge/23K+-COMMUNITY-00ff00?style=for-the-badge&labelColor=000000&logo=discord&logoColor=00ff00"/></td>
+<td><img src="https://img.shields.io/badge/🏆-NATIONAL%20HACKING%20CHAMPION-00ff00?style=for-the-badge&labelColor=000000"/></td>
 </tr>
 </table>
 
 <br/>
 
-<!-- SOCIAL BADGES - ANIMATED STYLE -->
+<!-- SOCIAL LINKS -->
 <a href="https://krishcdbry.com"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge&logoColor=white"/></a>
 <a href="https://linkedin.com/in/krishcdbry"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/krishcdbry"><img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -48,7 +55,7 @@
 <!-- ANIMATED DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ABOUT ME - HACKER TERMINAL STYLE -->
+<!-- ABOUT ME - TERMINAL STYLE -->
 <div align="center">
 
 ```
@@ -115,7 +122,6 @@ const KRISH = {
     ],
 
     philosophy: "I don't have mass, I have momentum.",
-
     mission: "Die on Mars 🚀"
 };
 ```
@@ -124,7 +130,7 @@ const KRISH = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- WHAT I DO - ANIMATED CARDS -->
+<!-- WHAT I DO -->
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **WHAT I BRING TO THE TABLE**
 
 <div align="center">
@@ -188,30 +194,26 @@ Speed: MVP in 45 days
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- TECH STACK - ORGANIZED & VISUAL -->
+<!-- TECH STACK -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **WEAPONS IN MY ARSENAL**
 
 <div align="center">
 
-<!-- Languages -->
 <h3>⚡ LANGUAGES</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust&theme=dark" />
 </p>
 
-<!-- Frontend -->
 <h3>🎨 FRONTEND</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,webpack,vite&theme=dark" />
 </p>
 
-<!-- Backend -->
 <h3>⚙️ BACKEND</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,graphql,redis,kafka&theme=dark" />
 </p>
 
-<!-- AI/ML -->
 <h3>🧠 AI / ML</h3>
 <p>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -222,13 +224,11 @@ Speed: MVP in 45 days
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-<!-- Cloud & DevOps -->
 <h3>☁️ CLOUD & DEVOPS</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,nginx&theme=dark" />
 </p>
 
-<!-- Databases -->
 <h3>🗄️ DATABASES</h3>
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,elasticsearch,dynamodb,mysql&theme=dark" />
@@ -238,59 +238,48 @@ Speed: MVP in 45 days
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- EXPERIENCE - TIMELINE STYLE -->
+<!-- EXPERIENCE - CLEAN TIMELINE -->
 ## <img src="https://media.giphy.com/media/faKVOAqVcIkQxMwraN/giphy.gif" width="40"> **BATTLE SCARS**
 
 <div align="center">
 
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃                                                                                 ┃
-┃  ┌─────────────────┐                                                            ┃
-┃  │   JIVI AI       │ Head of Engineering                           [CURRENT]   ┃
-┃  │   ███████████   │ Built 20K AI doctors • 108 specialties • 19 languages     ┃
-┃  │   ███████████   │ Healthcare AI under $100K budget                          ┃
-┃  └────────┬────────┘                                                            ┃
-┃           │                                                                     ┃
-┃           ▼                                                                     ┃
-┃  ┌─────────────────┐                                                            ┃
-┃  │   BHARATPE      │ Director of Engineering                       [4 YEARS]   ┃
-┃  │   $12B UNICORN  │ Scaled team 20 → 200+ engineers                           ┃
-┃  │   ███████████   │ 12x faster CI/CD • Built fintech at scale                 ┃
-┃  └────────┬────────┘                                                            ┃
-┃           │                                                                     ┃
-┃           ▼                                                                     ┃
-┃  ┌─────────────────┐                                                            ┃
-┃  │   BLINKIT       │ Growth Engineering Lead                                    ┃
-┃  │   ███████████   │ Full-stack ownership • Rapid growth phase                 ┃
-┃  └────────┬────────┘                                                            ┃
-┃           │                                                                     ┃
-┃           ▼                                                                     ┃
-┃  ┌─────────────────┐                                                            ┃
-┃  │   SPRIVE UK     │ Technical Advisor                                          ┃
-┃  │   ███████████   │ 300x business growth in 5 months 🚀                       ┃
-┃  └────────┬────────┘                                                            ┃
-┃           │                                                                     ┃
-┃           ▼                                                                     ┃
-┃  ┌─────────────────┐                                                            ┃
-┃  │   PRAAVI        │ Technical Lead                                             ┃
-┃  │   ███████████   │ Neo-bank platform • 2 people • 45 days                    ┃
-┃  └────────┬────────┘                                                            ┃
-┃           │                                                                     ┃
-┃           ▼                                                                     ┃
-┃  ┌─────────────────┐                                                            ┃
-┃  │   PITCHVISION   │ Head of Engineering                           [4+ YEARS]  ┃
-┃  │   ███████████   │ Cricket analytics • Where it all began                    ┃
-┃  └─────────────────┘                                                            ┃
-┃                                                                                 ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
+> ### 🥷 *The missions that forged this ninja*
+
+<br/>
+
+🟢 **JIVI AI** — *Head of Engineering* `[CURRENT]`
+> Built **20K AI doctors** across **108 specialties** in **19 languages** — all under **$100K**
+
+⬇️
+
+🦄 **BHARATPE** — *Director of Engineering* `[4 YEARS]`
+> Scaled team **20 → 200+** engineers • **12x faster CI/CD** • **$12B unicorn**
+
+⬇️
+
+🚀 **BLINKIT** — *Growth Engineering Lead*
+> Full-stack ownership • Drove **rapid growth phase**
+
+⬇️
+
+🇬🇧 **SPRIVE UK** — *Technical Advisor*
+> **300x business growth** in just **5 months**
+
+⬇️
+
+💳 **PRAAVI** — *Technical Lead*
+> Neo-bank platform • **2 people** • **45 days**
+
+⬇️
+
+🏏 **PITCHVISION** — *Head of Engineering* `[4+ YEARS]`
+> Cricket analytics platform • **Where it all began**
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- PROJECTS - CARDS -->
+<!-- PROJECTS -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **WHAT I'M SHIPPING**
 
 <div align="center">
@@ -316,7 +305,7 @@ Speed: MVP in 45 days
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- GITHUB STATS - FULL WIDTH -->
+<!-- GITHUB STATS -->
 ## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ris/giphy.gif" width="35"> **THE NUMBERS DON'T LIE**
 
 <div align="center">
@@ -330,7 +319,7 @@ Speed: MVP in 45 days
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishcdbry&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=MY%20CONTRIBUTION%20GRAPH%20(YEAH%2C%20I%20SHIP%20A%20LOT)" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishcdbry&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20GRAPH%20%E2%80%94%20YEAH%2C%20I%20SHIP%20A%20LOT" />
 
 </div>
 
@@ -347,49 +336,49 @@ Speed: MVP in 45 days
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- ORIGIN STORY -->
+<!-- ORIGIN STORY - CLEANER VERSION -->
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **THE ORIGIN STORY**
 
 <div align="center">
 
-```
-                                    🚀 THE JOURNEY OF A NINJA 🚀
+> ### 🚀 *The journey of a ninja*
 
-     ╔═══════════════════════════════════════════════════════════════════════╗
-     ║                                                                       ║
-     ║   2011 │ AGE 18 │ HAIFRIEND                                          ║
-     ║   ─────┼────────┼──────────────────────────────────────────────────  ║
-     ║        │        │ ★ First social network                             ║
-     ║        │        │ ★ Featured in 3 NEWSPAPERS                         ║
-     ║        │        │ ★ The spark that started it all                    ║
-     ║        │        │                                                    ║
-     ║   2012 │ AGE 19 │ HEARTYNOTE                                         ║
-     ║   ─────┼────────┼──────────────────────────────────────────────────  ║
-     ║        │        │ ★ Memory-driven social network                     ║
-     ║        │        │ ★ 10,000+ users                                    ║
-     ║        │        │                                                    ║
-     ║   .... │        │ WITTYCLIP                                          ║
-     ║   ─────┼────────┼──────────────────────────────────────────────────  ║
-     ║        │        │ ★ TikTok BEFORE TikTok existed                     ║
-     ║        │        │ ★ Open-sourced for the community                   ║
-     ║        │        │                                                    ║
-     ║   .... │        │ RECORDCHEY                                         ║
-     ║   ─────┼────────┼──────────────────────────────────────────────────  ║
-     ║        │        │ ★ Clubhouse BEFORE Clubhouse                       ║
-     ║        │        │ ★ Audio-first social                               ║
-     ║        │        │                                                    ║
-     ║   .... │        │ ONEBHARAT                                          ║
-     ║   ─────┼────────┼──────────────────────────────────────────────────  ║
-     ║        │        │ ★ $10 MILLION term sheet                           ║
-     ║        │        │ ★ WALKED AWAY - Integrity > Capital                ║
-     ║        │        │                                                    ║
-     ║   NOW  │        │ BUILDING THE FUTURE                                ║
-     ║   ─────┼────────┼──────────────────────────────────────────────────  ║
-     ║        │        │ ★ One commit at a time                             ║
-     ║        │        │ ★ Destination: MARS 🚀                             ║
-     ║                                                                       ║
-     ╚═══════════════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+### 2011 — **HAIFRIEND** `Age 18`
+🌟 First social network ever built
+📰 Featured in **3 newspapers**
+💡 The spark that started it all
+
+⬇️
+
+### 2012 — **HEARTYNOTE** `Age 19`
+❤️ Memory-driven social network
+👥 **10,000+ users**
+
+⬇️
+
+### **WITTYCLIP**
+🎬 TikTok **BEFORE** TikTok existed
+🌐 Open-sourced for the community
+
+⬇️
+
+### **RECORDCHEY**
+🎙️ Clubhouse **BEFORE** Clubhouse
+🔊 Audio-first social platform
+
+⬇️
+
+### **ONEBHARAT**
+💰 **$10 MILLION** term sheet
+🚶 **WALKED AWAY** — Integrity > Capital
+
+⬇️
+
+### **NOW**
+🔨 Building the future, one commit at a time
+🔴 **Destination: MARS**
 
 </div>
 
@@ -410,25 +399,20 @@ Speed: MVP in 45 days
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<!-- RANDOM QUOTE -->
+<!-- QUOTE -->
 <div align="center">
 
-### 💭 **RANDOM DEV WISDOM**
+### 💭 **THE NINJA WAY**
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I%20don%27t%20have%20mass%2C%20I%20have%20momentum.&author=KRISH)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- SPOTIFY -->
-## <img src="https://media.giphy.com/media/J5B5FVHjfXHanBLAwB/giphy.gif" width="35"> **CURRENTLY VIBING TO**
-
-<div align="center">
-
-[![Spotify](https://novatorem-krishcdbry.vercel.app/api/spotify)](https://open.spotify.com/user/krishcdbry)
-
-*Music fuels the code* 🎧
+```
+                    ╔═══════════════════════════════════════════════════╗
+                    ║                                                   ║
+                    ║   "I don't have mass, I have momentum."           ║
+                    ║                                                   ║
+                    ║                              — KRISH 🥷           ║
+                    ║                                                   ║
+                    ╚═══════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -445,17 +429,17 @@ Speed: MVP in 45 days
 ╔═══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                               ║
 ║                    "TALK IS CHEAP. SHOW ME THE CODE."                         ║
-║                              - Linus Torvalds                                 ║
+║                              — Linus Torvalds                                 ║
 ║                                                                               ║
-║                    "HOLD MY COFFEE."                                          ║
-║                              - Krish                                          ║
+║                    "HOLD MY COFFEE." ☕                                       ║
+║                              — Krish                                          ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=THANKS+FOR+STOPPING+BY+%F0%9F%99%8F;LET'S+BUILD+SOMETHING+EPIC+%F0%9F%9A%80;SEE+YOU+ON+MARS+%F0%9F%94%B4" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&weight=400&size=25&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=THANKS+FOR+STOPPING+BY+%F0%9F%99%8F;LET'S+BUILD+SOMETHING+EPIC+%F0%9F%9A%80;SEE+YOU+ON+MARS+%F0%9F%94%B4" alt="Typing SVG" /></a>
 
 <br/>
 
