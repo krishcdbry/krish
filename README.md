@@ -1,458 +1,175 @@
-<!--
-     ██████╗ ██████╗ ██████╗ ███████╗    ███╗   ██╗██╗███╗   ██╗     ██╗ █████╗
-    ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ████╗  ██║██║████╗  ██║     ██║██╔══██╗
-    ██║     ██║   ██║██║  ██║█████╗      ██╔██╗ ██║██║██╔██╗ ██║     ██║███████║
-    ██║     ██║   ██║██║  ██║██╔══╝      ██║╚██╗██║██║██║╚██╗██║██   ██║██╔══██║
-    ╚██████╗╚██████╔╝██████╔╝███████╗    ██║ ╚████║██║██║ ╚████║╚█████╔╝██║  ██║
-     ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝
--->
-
 <div align="center">
 
-<!-- NINJA BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,50:001a00,100:00ff00&text=&fontSize=0&animation=twinkling"/>
-
-<!-- EPIC NINJA HEADER -->
-```
-
-                         ⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀
-                         ⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀
-                         ⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀
-                         ⠀⠀⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀
-              ╔═══════╗  ⠀⣿⣿⡟██████████████⣿⣿⣿⠀  ╔═══════╗
-              ║░░░░░░░║  ⠀⣿⣿⡟███⚫█████⚫████⣿⣿⣿⠀  ║░░░░░░░║
-              ╚══╦═╦══╝  ⠀⢸⣿⣿██████████████⣿⣿⡇⠀  ╚══╦═╦══╝
-                 ║ ║     ⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠀⠀     ║ ║
-              ───╨─╨───  ⠀⠀⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠀⠀⠀  ───╨─╨───
-
-    ╭──────────────────────────────────────────────────────────────────────────╮
-    │                                                                          │
-    │    ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗    ⚔️  THE ALPHA NINJA  ⚔️        │
-    │    ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║                                   │
-    │    █████╔╝ ██████╔╝██║███████╗███████║    "In the shadows, I code.       │
-    │    ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║     In the light, I ship."        │
-    │    ██║  ██╗██║  ██║██║███████║██║  ██║                                   │
-    │    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝                      — KRISH 🥷   │
-    │                                                                          │
-    ╰──────────────────────────────────────────────────────────────────────────╯
-```
+<!-- CLEAN NINJA HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=header"/>
 
 <br/>
 
-<!-- ANIMATED SUBTITLE -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=80&lines=%E2%9A%94%EF%B8%8F+ENGINEERING+LEADER+%E2%80%A2+TECH+FOUNDER+%E2%80%A2+BUILDER+%E2%9A%94%EF%B8%8F;%F0%9F%94%A5+14%2B+YEARS+FORGING+CODE+INTO+PRODUCTS;%F0%9F%A6%84+%2412.8B%2B+UNICORN+ARCHITECT" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=50&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=70&lines=KRISH" alt="Name"/>
 
-<br/>
-
-<!-- NINJA STATS SCROLL -->
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  ⚔️ 14+ YEARS  ┃  🦄 $12.8B+ UNICORNS  ┃  👥 23K+ CLAN  ┃  🏆 HACK CHAMPION ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<a href="https://krishcdbry.com"><img src="https://img.shields.io/badge/⛩️_DOJO-krishcdbry.com-00ff00?style=for-the-badge&labelColor=000000"/></a>
-<a href="https://linkedin.com/in/krishcdbry"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/krishcdbry"><img src="https://img.shields.io/badge/TWITTER-FOLLOW-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="mailto:krishcdbry@gmail.com"><img src="https://img.shields.io/badge/📧_SCROLL-EMAIL_ME-EA4335?style=for-the-badge"/></a>
-<a href="https://topmate.io/krishcdbry"><img src="https://img.shields.io/badge/🥋_SENSEI-TOP_1%25-FF5722?style=for-the-badge"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&height=30&lines=The+Alpha+Ninja+%F0%9F%A5%B7" alt="Title"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=krishcdbry&style=for-the-badge&color=00ff00&labelColor=000000&label=VISITORS+TO+THE+DOJO"/>
-
-</div>
-
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- THE WAY OF THE NINJA -->
-<div align="center">
-<h2>🥷 THE WAY OF THE NINJA</h2>
-</div>
-
-```js
-class Ninja {
-    constructor() {
-        this.name = "Mohana Krishna Padda";
-        this.alias = "KRISH";
-        this.rank = "Alpha Ninja 🥷";
-        this.dojo = "Bangalore, India";
-        this.clan = "23K+ followers";
-
-        this.philosophy = {
-            code: "Write it once, ship it right",
-            leadership: "Lead from the front, code from the trenches",
-            life: "I don't have mass, I have momentum"
-        };
-    }
-
-    getCurrentMission() {
-        return "Head of Engineering @ Jivi AI - Building 20K AI doctors";
-    }
-
-    getUltimateGoal() {
-        return "🚀 Die on Mars";
-    }
-
-    getAchievements() {
-        return [
-            "🏆 National Hacking Champion",
-            "🥇 Top 1% Mentor on Topmate",
-            "🎖️ 4x Academic Excellence Medals",
-            "⭐ Student of the Year",
-            "🦄 Built 2 Unicorns ($12.8B+ combined)"
-        ];
-    }
-}
-
-const ninja = new Ninja();
-ninja.execute(); // Always executes flawlessly
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- NINJA SKILLS -->
-<div align="center">
-<h2>⚔️ NINJA ARSENAL ⚔️</h2>
-
-<i>"A ninja's weapons are only as sharp as the master who wields them"</i>
-
-<br/><br/>
-
-<!-- SKILL CARDS -->
-<table>
-<tr>
-<td align="center" width="25%">
-<h3>🗡️ LANGUAGES</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go&perline=3&theme=dark"/>
-</td>
-<td align="center" width="25%">
-<h3>⚔️ FRONTEND</h3>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass&perline=3&theme=dark"/>
-</td>
-<td align="center" width="25%">
-<h3>🏹 BACKEND</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,graphql,redis&perline=3&theme=dark"/>
-</td>
-<td align="center" width="25%">
-<h3>☁️ CLOUD</h3>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform&perline=3&theme=dark"/>
-</td>
-</tr>
-</table>
+**Engineering Leader** • **Tech Founder** • **Builder**
 
 <br/>
 
-<h3>🧠 AI / ML DARK ARTS</h3>
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white"/>
-<img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
-
-<h3>🗄️ DATA VAULTS</h3>
-<p>
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,elasticsearch,dynamodb,mysql&theme=dark"/>
-</p>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- BATTLE CHRONICLES -->
-<div align="center">
-<h2>⚔️ BATTLE CHRONICLES ⚔️</h2>
-
-<i>"Every scar tells a story. Every line of code, a victory."</i>
-</div>
+*"I don't have mass. I have momentum."*
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
-
-### 🟢 **JIVI AI** `CURRENT MISSION`
-**Head of Engineering**
-
-```diff
-+ Built 20,000 AI doctors
-+ 108 medical specialties
-+ 19 languages supported
-+ All under $100K budget
-! Making healthcare accessible with AI
-```
-
-</td>
-<td width="50%">
-
-### 🦄 **BHARATPE** `4 YEARS`
-**Director of Engineering**
-
-```diff
-+ Scaled team 20 → 200+ engineers
-+ 12x faster CI/CD pipelines
-+ $12 BILLION unicorn
-! Fintech at massive scale
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚀 **BLINKIT**
-**Growth Engineering Lead**
-
-```diff
-+ Full-stack ownership
-+ Backend, Frontend, Mobile
-+ Rapid growth phase
-! Quick commerce revolution
-```
-
-</td>
-<td width="50%">
-
-### 🇬🇧 **SPRIVE UK**
-**Technical Advisor**
-
-```diff
-+ 300x business growth
-+ In just 5 months
-! UK fintech disruption
-```
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💳 **PRAAVI**
-**Technical Lead**
-
-```diff
-+ Neo-banking platform
-+ 2-person core team
-+ 45 days to MVP
-! Speed is a feature
-```
-
-</td>
-<td width="50%">
-
-### 🏏 **PITCHVISION** `4+ YEARS`
-**Head of Engineering**
-
-```diff
-+ Cricket analytics platform
-+ Where the journey began
-! Sports tech pioneer
-```
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- CURRENT MISSIONS -->
-<div align="center">
-<h2>🎯 ACTIVE MISSIONS 🎯</h2>
-
-<i>"A ninja is always on a mission"</i>
-
-<br/><br/>
-
-<a href="https://nexadb.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishcdbry&repo=nexadb&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00"/>
-</a>
-<a href="https://devdna.live">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishcdbry&repo=devdna&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00"/>
-</a>
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-krishcdbry.com-000000?style=flat-square&logo=safari&logoColor=white)](https://krishcdbry.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krishcdbry-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishcdbry)
+[![Twitter](https://img.shields.io/badge/Twitter-@krishcdbry-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/krishcdbry)
+[![Email](https://img.shields.io/badge/Email-krishcdbry@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:krishcdbry@gmail.com)
+[![Mentor](https://img.shields.io/badge/Topmate-Top_1%25_Mentor-FF5722?style=flat-square)](https://topmate.io/krishcdbry)
 
 <br/>
 
-| 🎯 | **MISSION** | **OBJECTIVE** | **STATUS** |
-|:---:|:---|:---|:---:|
-| 💾 | **[NexaDB](https://nexadb.io)** | High-performance NoSQL + Vector DB • 25K+ ops/sec | ![](https://img.shields.io/badge/✅_DEPLOYED-00ff00?style=flat-square) |
-| 🧬 | **[DevDNA](https://devdna.live)** | AI-powered developer personality profiler | ![](https://img.shields.io/badge/✅_DEPLOYED-00ff00?style=flat-square) |
-| 🔧 | **[JsonToonCraft](https://jsontooncraft.com)** | 10+ free developer conversion tools | ![](https://img.shields.io/badge/✅_DEPLOYED-00ff00?style=flat-square) |
-| 🏥 | **Syraa AI** | Healthcare AI receptionist • 95% hold time reduction | ![](https://img.shields.io/badge/🔨_IN_PROGRESS-yellow?style=flat-square) |
-| ⏰ | **CronXray** | Cron job monitoring & debugging platform | ![](https://img.shields.io/badge/🔨_IN_PROGRESS-yellow?style=flat-square) |
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- GITHUB STATS -->
-<div align="center">
-<h2>📊 NINJA METRICS 📊</h2>
-
-<i>"Numbers don't lie. Neither does shipped code."</i>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=krishcdbry&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=krishcdbry&theme=black-ice&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishcdbry&layout=donut&hide_border=true&title_color=00FF00&text_color=c9d1d9&bg_color=0d1117"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=krishcdbry&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true&custom_title=⚔️%20COMMIT%20ACTIVITY%20—%20THE%20GRIND%20NEVER%20STOPS%20⚔️"/>
+<img src="https://komarev.com/ghpvc/?username=krishcdbry&style=flat-square&color=00ff00&labelColor=0d1117"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-<!-- TROPHIES -->
-<div align="center">
-<h2>🏆 TROPHIES COLLECTED 🏆</h2>
+### 🥷 About
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishcdbry&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+```javascript
+const krish = {
+    role: "Head of Engineering @ Jivi AI",
+    experience: "14+ years",
+    location: "Bangalore, India",
 
-</div>
+    building: "AI that makes healthcare accessible",
+    mission: "Die on Mars 🚀",
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ORIGIN STORY -->
-<div align="center">
-<h2>📜 THE ORIGIN SCROLL 📜</h2>
-
-<i>"Every master was once a disaster"</i>
-</div>
-
-<br/>
-
-```
-                            ╔══════════════════════════════════════╗
-                            ║     🥷 THE MAKING OF A NINJA 🥷      ║
-                            ╚══════════════════════════════════════╝
-
-    ┌─────────────────────────────────────────────────────────────────────────────┐
-    │                                                                             │
-    │   2011 ─── AGE 18 ─── HAIFRIEND                                            │
-    │   ════════════════════════════════                                          │
-    │   🌟 First social network ever built                                        │
-    │   📰 Featured in 3 NEWSPAPERS                                               │
-    │   💡 The spark that ignited the ninja within                                │
-    │                                    │                                        │
-    │                                    ▼                                        │
-    │   2012 ─── AGE 19 ─── HEARTYNOTE                                           │
-    │   ════════════════════════════════                                          │
-    │   ❤️ Memory-driven social network                                           │
-    │   👥 10,000+ users trusted the vision                                       │
-    │                                    │                                        │
-    │                                    ▼                                        │
-    │   WITTYCLIP                                                                 │
-    │   ═══════════                                                               │
-    │   🎬 Built TikTok BEFORE TikTok existed                                     │
-    │   🌐 Open-sourced for the community                                         │
-    │                                    │                                        │
-    │                                    ▼                                        │
-    │   RECORDCHEY                                                                │
-    │   ══════════                                                                │
-    │   🎙️ Built Clubhouse BEFORE Clubhouse                                       │
-    │   🔊 Audio-first social pioneer                                             │
-    │                                    │                                        │
-    │                                    ▼                                        │
-    │   ONEBHARAT                                                                 │
-    │   ═════════                                                                 │
-    │   💰 Received $10 MILLION term sheet                                        │
-    │   🚶 WALKED AWAY — Chose integrity over capital                             │
-    │                                    │                                        │
-    │                                    ▼                                        │
-    │   NOW ─── THE ALPHA NINJA                                                   │
-    │   ═══════════════════════                                                   │
-    │   🔨 Building the future, one commit at a time                              │
-    │   🔴 Next destination: MARS                                                 │
-    │                                                                             │
-    └─────────────────────────────────────────────────────────────────────────────┘
+    achievements: [
+        "National Hacking Champion",
+        "Built 2 unicorns ($12.8B+ combined)",
+        "Scaled teams from 20 to 200+",
+        "Top 1% Mentor on Topmate"
+    ]
+};
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-<!-- SNAKE -->
-<div align="center">
-<h2>🐍 THE CONTRIBUTION SERPENT 🐍</h2>
+### ⚡ Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishcdbry/krishcdbry/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/krishcdbry/krishcdbry/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/krishcdbry/krishcdbry/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- FINAL QUOTE -->
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                       ║
-║                                    🥷 忍者道 🥷                                         ║
-║                                  THE WAY OF NINJA                                     ║
-║                                                                                       ║
-║     ┌───────────────────────────────────────────────────────────────────────────┐     ║
-║     │                                                                           │     ║
-║     │        "In the shadows, I learn. In the light, I execute.                │     ║
-║     │         The code is my sword. The terminal is my dojo.                   │     ║
-║     │         I don't chase trends. I set them.                                │     ║
-║     │         I don't have mass. I have momentum."                             │     ║
-║     │                                                                           │     ║
-║     │                                              — KRISH, The Alpha Ninja     │     ║
-║     │                                                                           │     ║
-║     └───────────────────────────────────────────────────────────────────────────┘     ║
-║                                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════════════════════╝
-```
+**Languages**
 
-<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-<!-- ANIMATED FOOTER TEXT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%94%EF%B8%8F+THANKS+FOR+VISITING+THE+DOJO+%E2%9A%94%EF%B8%8F;%F0%9F%A5%8B+LET'S+BUILD+SOMETHING+LEGENDARY+TOGETHER;%F0%9F%9A%80+SEE+YOU+ON+MARS%2C+FELLOW+NINJA" alt="Typing SVG" /></a>
+**Frontend**
 
-<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### ⚔️ *"Star a repo. Follow the way. Join the clan."* ⚔️
+**Backend**
 
-<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff00&height=150&section=footer"/>
+**AI/ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 </div>
 
-<!--
-╔════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                        ║
-║   🥚 SECRET SCROLL DISCOVERED!                                                         ║
-║                                                                                        ║
-║   You have found the hidden message, young ninja.                                      ║
-║                                                                                        ║
-║   If you're reading this source code, you're either:                                   ║
-║   🥷 A fellow code ninja (respect!)                                                    ║
-║   🤖 An AI parsing this README (hello there, friend!)                                  ║
-║   🔍 A recruiter doing deep research (I'm honored!)                                    ║
-║                                                                                        ║
-║   The path of the ninja is not walked alone.                                           ║
-║   Reach out: krishcdbry@gmail.com                                                      ║
-║                                                                                        ║
-║   "The best code is the code you don't have to write.                                  ║
-║    But the second best is the code that ships."                                        ║
-║                                                                                        ║
-║   May your builds always pass and your deploys never fail. 🙏                          ║
-║                                                                                        ║
-╚════════════════════════════════════════════════════════════════════════════════════════╝
--->
+---
+
+### 💼 Experience
+
+| Company | Role | Impact |
+|:--------|:-----|:-------|
+| **Jivi AI** | Head of Engineering | Built 20K AI doctors • 108 specialties • 19 languages |
+| **BharatPe** | Director of Engineering | Scaled 20→200+ engineers • 12x faster CI/CD • $12B unicorn |
+| **Blinkit** | Growth Engineering Lead | Full-stack ownership • Rapid growth phase |
+| **Sprive UK** | Technical Advisor | 300x business growth in 5 months |
+| **Praavi** | Technical Lead | Neo-bank MVP • 2 people • 45 days |
+| **PitchVision** | Head of Engineering | Cricket analytics • 4+ years |
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Link |
+|:--------|:------------|:----:|
+| **NexaDB** | High-performance NoSQL + Vector search • 25K+ ops/sec | [↗](https://nexadb.io) |
+| **DevDNA** | AI-powered developer personality assessment | [↗](https://devdna.live) |
+| **JsonToonCraft** | 10+ free developer conversion tools | [↗](https://jsontooncraft.com) |
+| **Syraa AI** | Healthcare AI receptionist • 95% hold time reduction | *building* |
+| **CronXray** | Cron job monitoring & debugging | *building* |
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=krishcdbry&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=00ff00"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=krishcdbry&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=c9d1d9"/>
+
+</div>
+
+---
+
+### 📜 The Journey
+
+**2011** — Built first social network at 18. Featured in 3 newspapers.
+
+**2012** — Launched Heartynote. 10K+ users.
+
+**Then** — Built TikTok before TikTok (WittyClip). Built Clubhouse before Clubhouse (RecordChey).
+
+**Later** — Received $10M term sheet for OneBharat. Walked away. Integrity > Capital.
+
+**Now** — Building the future, one commit at a time. Next stop: Mars.
+
+---
+
+<div align="center">
+
+### 🥷
+
+*In the shadows, I learn. In the light, I ship.*
+
+*The code is my katana. Precision over power.*
+
+<br/>
+
+**Let's build something legendary together.**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer"/>
+
+</div>
